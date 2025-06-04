@@ -1,4 +1,4 @@
-# Install ollama and pull any model. 
+# Install ollama and pull any model and update model name in MODEL_NAME value (row 12). 
 # Install Python. Below script is tested on Python 3.13.3 version.
 # Finally run below script on a terminal on the server. 
 
